@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ride 351 MA</title>
+    <link>https://ride351ma.bike/</link>
+    <description>Recent content on Ride 351 MA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ride351ma.bike/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blisterin&#39; Bill&#39;ricka!</title>
+      <link>https://ride351ma.bike/post/2022-05-14-billricka/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ride351ma.bike/post/2022-05-14-billricka/</guid>
+      <description>This was a very short ride, about 18 miles (30 km) starting from North Billerica station, and ending at the Black Horse Tavern in Winchester center. Apart from being a blisteringly hot day - the first near 90° F (32° C) day since winter, it was a generally pleasant ride. The suburban towns of Billerica, Wilmington, Woburn, Burlington, Winchester, and Tewksbury had easy to ride on interconnected side streets - something I value a lot about living in Boston.</description>
+    </item>
+    
+    <item>
+      <title>Interactive Map</title>
+      <link>https://ride351ma.bike/post/2022-04-23-interactive-map/</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ride351ma.bike/post/2022-04-23-interactive-map/</guid>
+      <description>Clickable Interactive Map</description>
+    </item>
+    
+    <item>
+      <title>The Mohawk Trail</title>
+      <link>https://ride351ma.bike/post/2022-04-23-the-mohawk-trail/</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ride351ma.bike/post/2022-04-23-the-mohawk-trail/</guid>
+      <description>In September 2019, I rode along Route 2 (The Mohawk Trail) starting from Amherst, and ending at North Adams. Hellooo</description>
+    </item>
+    
+    <item>
+      <title>Bostreal Day 1</title>
+      <link>https://ride351ma.bike/post/2022-04-23-bostreal-day-1/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ride351ma.bike/post/2022-04-23-bostreal-day-1/</guid>
+      <description>You can call this my first taste of biking longer distances (read 50+ miles). In August 2021, I rode with an incredible group of 25 people from Boston, MA to North Hero Islands, VT. This journey of close to 400 km took place across 5 days. While I am documenting only the section of the ride within Massachusetts for now, I will create a dedicated post for the entire Bostreal route.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://ride351ma.bike/post/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://ride351ma.bike/post/2020-12-01-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Generic Page</title>
+      <link>https://ride351ma.bike/generic-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ride351ma.bike/generic-page/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
+    </item>
+    
+  </channel>
+</rss>

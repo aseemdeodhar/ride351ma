@@ -1,0 +1,13 @@
+languageCode: en-us
+title: Ride 351 MA
+baseURL: https://ride351ma.bike/
+theme: hugo-theme-massively
+googleanalytics: 'G-ZMY5VS8XLE'
+disqusShortname: ''
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+  - section
+languages:
+  en:
+    languageName: English
