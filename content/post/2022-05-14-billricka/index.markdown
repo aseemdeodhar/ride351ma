@@ -14,7 +14,7 @@ However, the 88° F temperature, along with relatively high humidity and low win
 
 Overall, I covered 6 new towns - Wilmington, Billerica, Burlington, Woburn, Winchester, and Tewksbury - bringing the total to 138/351, and closer than ever to covering the northern suburbs - now only to wait for the [Newburyport/Rockport line to resume services](https://www.mbta.com/schedules/CR-Newburyport/timetable)!
 
-A timelapse video of of the route can be viewed on YouTube [here](https://youtu.be/zTi_PuhDpNY/)
+A timelapse video of the route can be viewed on YouTube [here](https://youtu.be/zTi_PuhDpNY/)
 
 
 ![Billerica to Winchester](bike_routes_muni_2022-05-14.jpeg)
