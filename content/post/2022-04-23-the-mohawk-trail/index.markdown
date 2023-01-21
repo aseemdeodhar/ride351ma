@@ -9,10 +9,15 @@ categories: []
 tags: []
 ---
 
+**Ride With GPS Links**
+
+Day 1 - [Amherst to North Adams](https://ridewithgps.com/routes/37466770)
+
+Day 2 - [North Adams to Lenox](https://www.strava.com/activities/5950315232)
+
 In September 2021, I rode along Route 2 (The Mohawk Trail) starting from Amherst, and ending at North Adams. This was a pivotal ride - one that made me realize I had covered a very decent amount of the state by bike. This ride was also prompted by my successful completion of the four-day Bostreal ride, where I rode with a group of passionate biking folks from Boston to the North Hero islands in Vermont. As the name suggests, the ride is generally from Boston to Montreal, but due to COVID related border restrictions, we stopped just north of Burlington, VT.
 
-![Strava Route](strava_trail.jpg)
-###### Route and Elevation Profile in Strava
+![Strava Route](strava_trail.jpg) *Route and Elevation Profile in Strava*
 
 ## **The Ride**
 
@@ -22,18 +27,17 @@ The day started by taking a PeterPan bus from Boston to Amherst. The first 10 mi
 
 I stopped at a small roadside general store in Conway. The store had a bike rack! Most likely indicative of this route being popular with bike riders. This stop wasn't planned, but with the next few miles being relatively rolling hills, I wanted to be sure of enough water, and a snack, until the next stop in Shelburne Falls.
 
-![Conway General Store, Conway, MA](conway.jpg)
-###### Conway General Store, Conway, MA
+![Conway General Store, Conway, MA](conway.jpg) *Conway General Store, Conway, MA*
 
 ### *Shelburne Falls*
 
 Shelburne Falls is a small town with a really famous *Bridge of Flowers* right in the heart of town. I spent a little time walking around, and also got an ice-cream from a really funky looking ice-cream shop called [Mo's Fudge Factor](https://www.google.com/maps/place/Mo's+Fudge+Factor/@42.603674,-72.7438077,17z/data=!3m1!4b1!4m5!3m4!1s0x89e0d7bc42911921:0x62ec0969e6f22887!8m2!3d42.6036717!4d-72.7415815) - a really nice place!
 
-![Mo's Fudge, Shelburne Falls, MA](mos_fudge.jpg)
-###### Mo's Fudge, Shelburne Falls, MA
+![Mo\'s Fudge, Shelburne Falls, MA](mos_fudge.jpg)
+*Mo's Fudge, Shelburne Falls, MA*
 
 ![Bridge of Flowers, Shelburne Falls, MA](bridge_flowers_side.jpg)
-###### Bridge of Flowers, Shelburne Falls, MA
+_*Bridge of Flowers, Shelburne Falls, MA*_
 
 ### *Florida, Massachusetts - wait...what??*
 
@@ -42,15 +46,22 @@ After a nice short pause in Shelburne Falls, the only food/water point I would h
 After a gruelling climb up the Whitcomb Hill Road, (it was a nice enough ride along the Deerfield River on Zoar Road) I arrived in Florida, Massachusetts! At the end of the hills, just before descending into the Berkshire Valley, I stopped at the Wigwam Western Summit, and caught a brilliant sunset view of Mt Greylock.
 
 ![Bike on a bridge on the Deerfield River, off Zoar Road](bridge_bike.jpg)
-###### Bike on a bridge on the Deerfield River, off Zoar Road
+_*Bike on a bridge on the Deerfield River, off Zoar Road*_
 
 ![Town Entry Sign, Florida, MA](florida_ma.jpeg)
-###### Town Entry Sign, Florida, MA 
+_*Town Entry Sign, Florida, MA*_
 
 ![Golden Elk, Whitcomb Summit Retreat](mohawk_trail.jpeg)
-###### Golden Elk, Whitcomb Summit Retreat
+_*Golden Elk, Whitcomb Summit Retreat*_
 
 ![View into the Berkshire Valley, from the Wigwam Western Summit](florida_view_valley.jpg)
-###### View into the Berkshire Valley, from the Wigwam Western Summit
+_*View into the Berkshire Valley, from the Wigwam Western Summit*_
 
 This was a long, and difficult, yet highly rewarding ride. I learned a lot about pace management, stocking up on food/water, as well as managing my refreshment breaks.
+
+### *Day 2 - Riding down Berkshire Valley*
+
+The next day, I had to catch my PeterPan bus back to Boston from Lenox. 
+
+![Strava Route Day 2](strava_day2.jpg) 
+*Route and Elevation Profile in Strava*
