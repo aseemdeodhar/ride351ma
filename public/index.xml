@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>The Mohawk Trail</title>
+      <link>https://ride351ma.bike/post/2022-04-23-the-mohawk-trail/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ride351ma.bike/post/2022-04-23-the-mohawk-trail/</guid>
+      <description>In September 2021, I rode along Route 2 (The Mohawk Trail) starting from Amherst, and ending at North Adams. This was a pivotal ride - one that made me realize I had covered a very decent amount of the state by bike. This ride was also prompted by my successful completion of the four-day Bostreal ride, where I rode with a group of passionate biking folks from Boston to the North Hero islands in Vermont.</description>
+    </item>
+    
+    <item>
       <title>Interactive Map</title>
       <link>https://ride351ma.bike/post/2022-04-23-interactive-map/</link>
       <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
@@ -39,32 +48,12 @@
     </item>
     
     <item>
-      <title>The Mohawk Trail</title>
-      <link>https://ride351ma.bike/post/2022-04-23-the-mohawk-trail/</link>
-      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ride351ma.bike/post/2022-04-23-the-mohawk-trail/</guid>
-      <description>In September 2019, I rode along Route 2 (The Mohawk Trail) starting from Amherst, and ending at North Adams. Hellooo</description>
-    </item>
-    
-    <item>
       <title>Bostreal Day 1</title>
       <link>https://ride351ma.bike/post/2022-04-23-bostreal-day-1/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ride351ma.bike/post/2022-04-23-bostreal-day-1/</guid>
       <description>You can call this my first taste of biking longer distances (read 50+ miles). In August 2021, I rode with an incredible group of 25 people from Boston, MA to North Hero Islands, VT. This journey of close to 400 km took place across 5 days. While I am documenting only the section of the ride within Massachusetts for now, I will create a dedicated post for the entire Bostreal route.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>https://ride351ma.bike/post/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>https://ride351ma.bike/post/2020-12-01-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
     <item>
