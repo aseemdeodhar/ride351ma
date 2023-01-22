@@ -1,5 +1,5 @@
 ---
-title: Connecting the Connecticut River
+title: Connecticut River Connect
 description: Biking from Brattleboro to Greenfield
 author: Aseem Deodhar
 date: 2022-10-15T00:00:00
