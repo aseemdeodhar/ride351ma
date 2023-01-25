@@ -1,0 +1,11 @@
+---
+title: Trip Planning Resources
+description: How do I plan my rides? Use this page to find out! 
+author: Aseem Deodhar
+date: 2023-12-31T00:00:00
+slug: []
+categories: []
+tags: []
+---
+
+I first started getting into planning my bike rides beyond just - "Enter start and end points on Google Maps and GO!" after my [Bos/treal (check it out!!)](https://bostoncyclistsunion.org/bostreal) ride in 2021.
