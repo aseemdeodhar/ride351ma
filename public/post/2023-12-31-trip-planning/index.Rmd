@@ -2,7 +2,7 @@
 title: Trip Planning Resources
 description: How do I plan my rides? Use this page to find out! 
 author: Aseem Deodhar
-date: 2023-12-31T00:00:00
+date: 2023-01-01T00:00:00
 slug: []
 categories: []
 tags: []
@@ -30,3 +30,23 @@ To give an overview, the following points are a good gist of what to think of wh
     -   Personal effects
 -   Storage
 -   Bike Transportation
+
+
+### Route Planning - involving:
+    -   Distances & Hours
+    -   Terrain
+    -   Rest stops
+### Overnight Stops:
+    -   Accommodation types
+    -   Where to find them
+### Transportation to/from the ride:
+    -   Rail & Bus
+    -   Car
+### Gear & Packing List:
+    -   Tools
+    -   Navigation
+    -   Refreshments
+    -   Clothing
+    -   Personal effects
+### Storage
+### Bike Transportation
