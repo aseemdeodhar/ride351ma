@@ -2,7 +2,7 @@
 title: Trip Planning Resources
 description: How do I plan my rides? Use this page to find out! 
 author: Aseem Deodhar
-date: 2023-01-20T00:00:00
+date: 2022-01-20T00:00:00
 slug: []
 categories: []
 tags: []
