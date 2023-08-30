@@ -1,6 +1,6 @@
 items:
-- title: 'Interactive Map'
-  url: 'https://ride351ma-interactive-map.netlify.app/'
+- title: 'Trip Planning'
+  url: '/post/2023-12-31-trip-planning/'
   
 - title: 'Strava'
   url: 'https://www.strava.com/athletes/12690094/'
@@ -10,6 +10,3 @@ items:
 
 - title: 'Personal Website'
   url: 'https://aseemdeodhar.com/'
-  
-- title: 'Youtube'
-  url: 'https://youtube.com/playlist?list=PLwy-mmiPXT8V5LpSyIPyG1fbZKMMip6Fv'
