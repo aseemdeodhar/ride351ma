@@ -1,8 +1,8 @@
 ---
-title: Suburbiana
-description: Covering the suburban towns south of the Blue Hills 
+title: The Massachusetts Midwest
+description: Loop through west-central Worcester County
 author: Aseem Deodhar
-date: 2022-11-19T00:00:00
+date: 2022-11-05T00:00:00
 slug: []
 categories: []
 tags: []
@@ -10,17 +10,16 @@ tags: []
 
 **Ride With GPS Links**
 
-[Dedham to Weymouth](https://ridewithgps.com/routes/41422679)
+[Central Massachusetts Loop](https://ridewithgps.com/routes/41322762)
 
-If you thought the last ride from Attleboro to Plymouth was bad - I have worse news for you. This section of the state is terribl-er. The entire route I was battling SUVs and pick-up trucks. It was a series of long stretches of stroads only. This ride had only one redeemable section - which unfortunately was also uphill. I highly recommend not riding this section unless you're doing something as daft as biking all across the state.
+This was one of the few rides I did that I drove to. Well, my friend drove us and our bikes to. These towns are served by the WRTA 33 and 19 routes, which I would've taken had I gone alone. It was a beautiful early November/late Fall day with the bright fall colors slowing down from the October riot. With partially clear skies, the landscape was dominated by blue, brown, and deep golden-brown. I feel November is not appreciated enough.
 
-![My exhausted face, which got more exhausted after it saw this sign at South Station on the way home](collage.jpg)
-*My exhausted face, which got more exhausted after it saw this sign at South Station on the way home*
+![The Quabog River](quabog_river.jpg) *The Quabog River*
 
-![Strava Route - Dedham to Weymouth](strava_day1.jpg)
-*Strava Route - Dedham to Weymouth*
+![The route also passes by the historic Boston Post Road!](boston_post.jpg) *The route also passes by the historic Boston Post Road!*
 
+![Strava Route - Central Massachusetts Loop](strava_day1.jpg) *Strava Route - Central Massachusetts Loop*
 
-Overall, I covered 10 new towns - Stoughton, Walpole, Westwood, Sharon, Norwood, Avon, Weymouth, Abington, Dedham, Randolph - bringing the total to 240/351 - 68.4%, crossed the two-thirds mark!
+Overall, I covered 10 new towns - East Brookfield, Palmer, Spencer, Warren, Ware, Hardwick, New Braintree, West Broofield, North Brookfield, and Brookfield - bringing the total to 217/351 - 61.8%!
 
-![Suburbiana](bike_routes_muni_2022-11-19.jpeg)
+![Central Massachusetts Loop](bike_routes_muni_2022-11-05.jpeg)
