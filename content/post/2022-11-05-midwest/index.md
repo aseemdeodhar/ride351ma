@@ -10,10 +10,11 @@ tags: []
 
 [**Youtube Link**](https://youtu.be/LeS4PXPavpI?feature=shared)
 
-**Ride With GPS Links**
-[Central Massachusetts Loop](https://ridewithgps.com/routes/41322762)
+[**Ride With GPS Link**](https://ridewithgps.com/routes/41322762)
 
 This was one of the few rides I did that I drove to. Well, my friend drove us and our bikes to. These towns are served by the WRTA 33 and 19 routes, which I would've taken had I gone alone. It was a beautiful early November/late Fall day with the bright fall colors slowing down from the October riot. With partially clear skies, the landscape was dominated by blue, brown, and deep golden-brown. I feel November is not appreciated enough.
+
+We started and ended the ride in Spencer where we found a municipal parking lot. Similar to the towns I experienced on the [May 29th 2022 ride](https://ride351ma.bike/post/2022-05-29-a-wedding/), these towns have a unique vibe to them. Away from the chaos and fast-paced Boston metro area, but at the same time not as rural and relaxed as the Berkshire Hills.
 
 ![The Quabog River](quabog_river.jpg) 
 *The Quabog River*
