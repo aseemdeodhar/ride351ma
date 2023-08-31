@@ -12,7 +12,7 @@ I first started getting into planning my bike rides beyond just - "Enter start a
 
 To give an overview, the following points are a good gist of what to think of when trip planning. I have detailed each section further down as well. I am always happy to answer any questions you may have, and offer help, advice, and suggestions **at no monetary cost**. I was the recipient of all of this information because of generous help from others, and I wish that you get it at no cost as well!
 
--   Route Planning:
+-   [Route Planning](#route-planning):
     -   Tools and Applications
     -   Distances & Hours
     -   Terrain
