@@ -6,31 +6,34 @@ description: How do I plan my rides? Use this page to find out!
 slug: []
 categories: []
 tags: []
+output:
+  blogdown::html_page:
+    toc: true
 ---
 
 I first started getting into planning my bike rides beyond just - "Enter start and end points on Google Maps and GO!" after my [Bos/treal (check it out!!)](https://bostoncyclistsunion.org/bostreal) ride in 2021. Since then, I've gathered a list of resources which I have used, and some I haven't, but come recommended! **Note: None of the links are sponsored. I do not get any commission if you click on these links.**
 
 To give an overview, the following points are a good gist of what to think of when trip planning. I have detailed each section further down as well. I am always happy to answer any questions you may have, and offer help, advice, and suggestions **at no monetary cost**. I was the recipient of all of this information because of generous help from others, and I wish that you get it at no cost as well!
 
--   [**Route Planning**](#route-planning):
+-   [**Route Planning**](#route-planning)
     -   Tools and Applications
     -   Distances & Hours
     -   Terrain
     -   Rest stops
--   [**Overnight Stops**](#overnight-stops):
+-   [**Overnight Stops**](#overnight-stops)
     -   Accommodation types
     -   Where to find them
--   [**Transportation to & from the ride**](#transportation-to-&-from-the-ride):
+-   [**Transportation to & from the ride**](#transportation-to-&-from-the-ride)
     -   Rail & Bus
     -   Car
--   [**Gear & Packing List**](#gear-&-packing-list):
+-   [**Gear & Packing List**](#gear-&-packing-list)
     -   Tools
     -   Navigation
     -   Refreshments
     -   Clothing
     -   Personal effects
--   [**Personal Gear Storage**](#personal-sear-storage):
--   [**Bike Transportation**](#bike-transportation):
+-   [**Personal Gear Storage**](#personal-sear-storage)
+-   [**Bike Transportation**](#bike-transportation)
 
 ## Route Planning: {#route-planning}
 
