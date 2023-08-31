@@ -100,7 +100,7 @@ A lot of bus and rail services permit bikes on board. You may need to deconstruc
 
 A car opens you up to explore routes which might not be as easily accessible via public transport. There is a wide variety of ways in which to transport your bike by a personal vehicle. Most popular is a bike rack, or, what I have sometimes done - just rent an SUV and put your bike in the back.
 
-## Gear & Packing List:
+## Gear and Packing List:
 
 ### Tools
 So far, I have been extremely lucky to have never had any mechanical issues with my bike while on a ride. I do however keep a few things on my on all rides where I will be away from the Boston Commuter rail area (ie easy transportation to home).
