@@ -1,15 +1,14 @@
 ---
-title: "Post Freeze Thaw"
+title: "Almost Spring"
 author: "Aseem Deodhar"
-date: "2023-02-05T00:00:00"
-description: "Ride through the central part of the South Shore"
+date: "2023-02-10T00:00:00"
+description: "North Shore - Reading to Singing Beach"
 slug: []
 categories: []
 tags: []
 ---
 
 [**Youtube Link**](https://youtu.be/p-PXjQ1j7DY?feature=shared)
-
 [**Ride With GPS Link**](https://ridewithgps.com/routes/41722735)
 
 Another warm-ish day in February. We don't waste those in this part of the world. This ride was a combination of two shorter rides. The route was nice, with no/low traffic, and went through some residential streets, and low-traffic connector roads. After crossing I-95, it became less bedroom-community-ish, and more classic North-Shore village like atmosphere. Towards the end, however, it becomes a little hilly along a busy-ish road and an intersection with 128, but ends at Singing Beach in Manchester-by-the-Sea!
