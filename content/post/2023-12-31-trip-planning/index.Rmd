@@ -23,16 +23,16 @@ To give an overview, the following points are a good gist of what to think of wh
 -   [**Overnight Stops**](#overnight-stops)
     -   Accommodation types
     -   Where to find them
--   [**Transportation to & from the ride**](#transportation-to-&-from-the-ride)
+-   [**Transportation to & from the ride**](#transportation-to-and-from-the-ride)
     -   Rail & Bus
     -   Car
--   [**Gear & Packing List**](#gear-&-packing-list)
+-   [**Gear & Packing List**](#gear-and-packing-list)
     -   Tools
     -   Navigation
     -   Refreshments
     -   Clothing
     -   Personal effects
--   [**Personal Gear Storage**](#personal-sear-storage)
+-   [**Personal Gear Storage**](#personal-gear-storage)
 -   [**Bike Transportation**](#bike-transportation)
 
 ## Route Planning: {#route-planning}
