@@ -1,8 +1,8 @@
 ---
-title: Trip Planning Resources
-description: How do I plan my rides? Use this page to find out! 
-author: Aseem Deodhar
-date: 2022-01-20T00:00:00
+title: "Trip Planning Resources"
+author: "Aseem Deodhar"
+date: "2022-01-20T00:00:00"
+description: How do I plan my rides? Use this page to find out!
 slug: []
 categories: []
 tags: []

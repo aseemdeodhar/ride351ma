@@ -1,8 +1,8 @@
 ---
-title: The Massachusetts Midwest
-description: Loop through west-central Worcester County
-author: Aseem Deodhar
-date: 2022-11-05T00:00:00
+title: "The Massachusetts Midwest"
+author: "Aseem Deodhar"
+date: "2022-11-05T00:00:00"
+description: "Loop through west-central Worcester County"
 slug: []
 categories: []
 tags: []
