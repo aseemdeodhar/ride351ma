@@ -9,26 +9,24 @@ tags: []
 ---
 
 [**Youtube Link**](https://youtu.be/3acgV_ni3UE?feature=shared)
+
 [**Ride With GPS Link**](https://ridewithgps.com/routes/42607182)
 
-Another warm-ish day in February. We don't waste those in this part of the world. This ride was a combination of two shorter rides. The route was nice, with no/low traffic, and went through some residential streets, and low-traffic connector roads. After crossing I-95, it became less bedroom-community-ish, and more classic North-Shore village like atmosphere. Towards the end, however, it becomes a little hilly along a busy-ish road and an intersection with 128, but ends at Singing Beach in Manchester-by-the-Sea!
-
-While definitely warm by February standards, it was still February. As such, my regular winter riding attire of 3 layers - long underwear, a T-shirt, and a thin fleece jacket were enough to keep me warm, without feeling stuffy.
-This route has the potential to be great **in the Summer as well as Fall**.
+It was the perfect May day with clear sunny skies and crisp cool-warm temperatures. Leaves were still fresh green, and overall the perfect Boston spring day. My ride started from the Andover Commuter Rail Station and passed through Andover town center, and the infamous Elm Square intersection, where just three days earlier, [a child was fatally struck by the driver of a tractor-trailer](https://mass.streetsblog.org/2023/05/15/truck-driver-kills-5-year-old-girl-in-downtown-andover-crosswalk). The intersection has [long been considered dangerous](https://mass.streetsblog.org/2023/06/08/andover-town-officials-ignored-residents-warnings-about-hazards-at-site-of-fatal-crash), but town officials have [only now started](https://mass.streetsblog.org/2023/08/28/andover-select-board-formally-adopts-vision-zero) taking it seriously - a reminder of how fatalities are often required to wake up authorities.
 
 
-![River Road in Topsfield](roadside.jpg) 
-*River Road in Topsfield. This was a nice view along a low-stress road, with a great Fall foliage views potential*
+![Main Street near Ipswich Road, in Boxford](road.jpg) 
+*Main Street near Ipswich Road, in Boxford*
 
-![Singing Beach in Manchester-by-the-Sea](beach.jpg) 
-*Singing Beach in Manchester-by-the-Sea*
+![River Road, near the town-line of Merrimac and Haverhill](river.jpg) 
+*River Road, near the town-line of Merrimac and Haverhill*
 
-![Manchester-by-the-Sea Commuter Rail Station](station.jpg) 
-*Manchester-by-the-Sea Commuter Rail Station*
+![Wildlife in the Crane Pond Wildlife Management Area. Turtles and (not pictured, but 100% DEFINITELY there) snakes!](animals.jpg) 
+*Wildlife in the Crane Pond Wildlife Management Area. Turtles and (not pictured, but 100% DEFINITELY there) snakes!*
 
 ![Strava Route - Mad Merrimac Meander](strava_day1.jpg) 
 *Strava Route - Mad Merrimac Meander*
 
-Overall, I covered 11 new towns - Essex, Hamilton, Reading, Manchester-by-the-Sea, Wenham, Middleton, Beverly, Boxford, North Reading, Danvers, and Topsfield - bringing the total to 258/351 - 73.5%!
+Overall, I covered 8 new towns - Groveland, Haverhill, Amesbury, Merrimac, West Newbury, Georgetown, Andover, and North Andover - bringing the total to 283/351 - 80.6%!
 
-![Almost Spring](bike_routes_muni_2023-05-13.jpeg)
+![Mad Merrimac Meander](bike_routes_muni_2023-05-13.jpeg)
