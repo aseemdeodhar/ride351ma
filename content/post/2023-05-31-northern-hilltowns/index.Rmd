@@ -40,6 +40,7 @@ I have passed through the town of Conway, and had a snack/water break at the Con
 *Conway General Store, and a Covered Bridge*
 
 
+
 ![Strava Route Day 1 - Greenfield to Worthington](strava_day1.jpg) 
 *Strava Route Day 1 - Greenfield to Worthington*
 
