@@ -6,33 +6,36 @@ description: How do I plan my rides? Use this page to find out!
 slug: []
 categories: []
 tags: []
+output:
+  blogdown::html_page:
+    toc: true
 ---
 
 I first started getting into planning my bike rides beyond just - "Enter start and end points on Google Maps and GO!" after my [Bos/treal (check it out!!)](https://bostoncyclistsunion.org/bostreal) ride in 2021. Since then, I've gathered a list of resources which I have used, and some I haven't, but come recommended! **Note: None of the links are sponsored. I do not get any commission if you click on these links.**
 
 To give an overview, the following points are a good gist of what to think of when trip planning. I have detailed each section further down as well. I am always happy to answer any questions you may have, and offer help, advice, and suggestions **at no monetary cost**. I was the recipient of all of this information because of generous help from others, and I wish that you get it at no cost as well!
 
--   [Route Planning](#route-planning):
+-   [**Route Planning**](#route-planning)
     -   Tools and Applications
     -   Distances & Hours
     -   Terrain
     -   Rest stops
--   Overnight Stops:
+-   [**Overnight Stops**](#overnight-stops)
     -   Accommodation types
     -   Where to find them
--   Transportation to/from the ride:
+-   [**Transportation to & from the ride**](#transportation-to-and-from-the-ride)
     -   Rail & Bus
     -   Car
--   Gear & Packing List:
+-   [**Gear & Packing List**](#gear-and-packing-list)
     -   Tools
     -   Navigation
     -   Refreshments
     -   Clothing
     -   Personal effects
--   Storage
--   Bike Transportation
+-   [**Personal Gear Storage**](#personal-gear-storage)
+-   [**Bike Transportation**](#bike-transportation)
 
-## Route Planning:
+## Route Planning: {#route-planning}
 
 A lot of thought goes into route planning. This is, after all the main component of the trip! I use multiple free and paid websites and tools to plan a route as thoroughly as possible. A few things to take note of are terrain & road conditions, rest stop locations, points of interest along the way, and sometimes when transportation options are limited, time to & from transportation points. We'll go through all of these.
 
@@ -87,7 +90,7 @@ Rest stop locations for me primarily depend on two things: the terrain (hilly or
 
 ### Where to search for them
 
-## Transportation to/from the ride:
+## Transportation to and from the ride:
 
 ### Rail & Bus
 
@@ -97,53 +100,43 @@ A lot of bus and rail services permit bikes on board. You may need to deconstruc
 
 A car opens you up to explore routes which might not be as easily accessible via public transport. There is a wide variety of ways in which to transport your bike by a personal vehicle. Most popular is a bike rack, or, what I have sometimes done - just rent an SUV and put your bike in the back.
 
-## Gear & Packing List:
+## Gear and Packing List:
 
 ### Tools
-
 So far, I have been extremely lucky to have never had any mechanical issues with my bike while on a ride. I do however keep a few things on my on all rides where I will be away from the Boston Commuter rail area (ie easy transportation to home).
 
-* A spare tube
-* Patches + essential tools
-* Small airpump
+-   A spare tube
+-   Patches + essential tools
+-   Small airpump
 
 I recommend consulting this article on [Bikepacking.com](https://bikepacking.com/gear/bikepacking-repair-kit/) which is very thorough.
 
-
 ### Navigation
-
 There is an abundance of navigation apps for your phone, or even standalone navigation computers. Based on your budget, you can spend between nothing to a few hundred dollars!
-
-* Google Maps is of course excellent for navigation. However, despite its bicycle navigation capabilities having improved, there are better options available in the market. There is a limit to how much you can edit a particular route on Google Maps from its default suggestion.
-
-* My personal favorite is RideWithGPS. As explained above, it is also very useful for designing routes to a very high degree of customization.
-
-* Another app that is popular, but I haven't tried is Komoot.
-
-* Bike computers are GPS devices where you can load in route files (.gpx files) and attach them to your bike handlebar. These display the route and also directions. An advantage of a bike computer is that it is relatively light with a much better battery life than using your phone. IMO, a phone with the RideWithGPS app and an external battery pack (I use a 13,000 mAh pack) is quite sufficient. A popular bike computer company is [Garmin](https://www.garmin.com/en-US/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/)
+-   Google Maps is of course excellent for navigation. However, despite its bicycle navigation capabilities having improved, there are better options available in the market. There is a limit to how much you can edit a particular route on Google Maps from its default suggestion.
+-   My personal favorite is RideWithGPS. As explained above, it is also very useful for designing routes to a very high degree of customization.
+-   Another app that is popular, but I haven't tried is Komoot.
+-   Bike computers are GPS devices where you can load in route files (.gpx files) and attach them to your bike handlebar. These display the route and also directions. An advantage of a bike computer is that it is relatively light with a much better battery life than using your phone. IMO, a phone with the RideWithGPS app and an external battery pack (I use a 13,000 mAh pack) is quite sufficient. A popular bike computer company is [Garmin](https://www.garmin.com/en-US/c/sports-fitness/cycling-bike-computers-bike-radar-power-meter-headlights/)
 
 ### Refreshments
-
 *Carbs.*
-
 *Electrolytes.*
 
 These two are probably the most important nutritional requirements for your body during a long ride. Good, cheap, and light-weight sources to always have on your body are energy bars and gels. Electrolyte powders can be mixed in water, and energy drink brands such as Gatorade and Powerade are available in every gas station store, liquor store, and grocery/convenience store you will come across. *Please fill up your bottles with water whenever you get a chance*.
 
 ### Clothing
-
 Clothing depends on the weather. In the summer, I prefer a light full-sleeved drifit cycling shirt. Longer sleeves help in warding off sun damage, help against mosquitoes on breaks, and can always be rolled up whenever needed. As the weather cools, I add multiple light layers instead of one or two thick layers.
-
 For rides longer than 25-30 miles, I wear padded shorts. Padded shorts are to be worn without underwear. Yes. I know, it feels weird the first few times, but you'll get over it. It is so much better this way - trust me.
 
 ## Personal Gear Storage
+I use four primary storage methods -
 
-I use four primary storage methods - 
+-   [Top Tube Bag](https://a.co/d/6imneQL) This is useful for keeping things such as a battery pack, keys, wallet, small items etc.
+-   [Bike Frame Bag](https://a.co/d/7NVMfBk) This is useful for a single overnighter ride where you might need to carry additional items such as toiletries, chargers, and a rolled up tshirt and underwear. Can also hold snack bars and electrolyte powder packets etc.
+-   [Pannier Bags](https://a.co/d/1p1tB7W) These come in various sizes and types, and are most useful if you're doing a 2+ day ride, or in cooler weather to keep extra layers. Also useful if you're hauling things to say a beach such as a beach chair, towel, picnic stuff!
+-   [Saddle Bag](https://a.co/d/7wGbPYw) This kind of bag goes under your 'saddle', or bike seat. I use it to carry my flat repair kit and multi-tool.
 
-* [Top Tube Bag](https://a.co/d/6imneQL) This is useful for keeping things such as a battery pack, keys, wallet, small items etc.
+## Bike Transportation
+For local bike transportation, it is usually easy to just keep the bike relatively assembled. Amtrak requires you to remove the front wheel and hang it up in their dedicated spot. Bus services such as Peterpan, P&B, Concord Coach etc will let you store the bike in the luggage storage. For larger bike sizes such as mine, its easiest to remove the front wheel and store the bike vertically, securely attaching it to the vertical bars.
+I have never transported my bike non-locally. I always found it to be several times cheaper to just rent a decent bike at my destination compared to shipping it. However, if you require shipping your bike, I'd first check with your airline (if you're flying). Many have competitive rates. Alternatively, there are shipping companies that specialize in shipping bikes. From what I understand, they have deals with courier services like UPS and Fedex that allow them to charge you a lower price than if you ship directly with Fedex or UPS etc. Two services I know of are [shipbikes.com](https://www.shipbikes.com/) and [bikeflights.com](https://www.bikeflights.com/)
 
-* [Bike Frame Bag](https://a.co/d/7NVMfBk) This is useful for a single overnighter ride where you might need to carry additional items such as toiletries, chargers, and a rolled up tshirt and underwear. Can also hold snack bars and electrolyte powder packets etc.
-
-* [Pannier Bags](https://a.co/d/1p1tB7W) These come in various sizes and types, and are most useful if you're doing a 2+ day ride, or in cooler weather to keep extra layers. Also useful if you're hauling things to say a beach such as a beach chair, towel, picnic stuff!
-
-* [Saddle Bag](https://a.co/d/7wGbPYw) This kind of bag goes under your 'saddle', or bike seat. I use it to carry my flat repair kit and multi-tool.
