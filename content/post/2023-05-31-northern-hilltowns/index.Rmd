@@ -30,7 +30,15 @@ The Vermonter train goes along the Connecticut River, and has some incredible vi
 ![The Cornish-Windsor Covered Bridge](covered_bridge.jpg) 
 *The Cornish-Windsor Covered Bridge*
 
-The ride today consisted of a nearly 1,500 foot climb, nearly consistently uphill for 15 miles, after an initial 5 miles in the flat northern Pioneer Valley through Deerfield. I had previously only skirted the southern portion of Deerfield on the [Mohawk Trail](https://ride351ma.bike/post/2022-04-23-the-mohawk-trail/) ride, and twice along the northern edge after crossing over from Montague on the Canalside Rail Trail Bridge (See [Connecticut River Connect](https://ride351ma.bike/post/2022-10-15-connecticut-river-connect/) and [A Wedding with a side of Covid](https://ride351ma.bike/post/2022-05-29-a-wedding/)).
+The ride today consisted of a nearly 1,500 foot climb, nearly consistently uphill for 15 miles, after an initial 5 miles in the flat northern Pioneer Valley through Deerfield. I had previously only skirted the southern portion of Deerfield on the [Mohawk Trail](https://ride351ma.bike/post/2022-04-23-the-mohawk-trail/) ride, and twice along the northern edge after crossing over from Montague on the Canalside Rail Trail Bridge (See [Connecticut River Connect](https://ride351ma.bike/post/2022-10-15-connecticut-river-connect/) and [A Wedding with a side of Covid](https://ride351ma.bike/post/2022-05-29-a-wedding/)). This time, however, I rode right through the main part of the historic town. Unfortunately I do not have good pictures, but it was a picturesque farming town with a nice shaded main street. While the road wasn't a narrow rural road, it had very few vehicles - a feature of the northern Berkshire Hills and Pioneer Valley I love.
+
+##### Conway
+
+I have passed through the town of Conway, and had a snack/water break at the Conway General Store three times so far. It has become my favorite place to stop. It is a very basic, simple general store with the basics, but they have a small bike rack with some space to sit and eat. This time, however, was the first time I was going beyond Conway along Route 116W, and not to or from Shelburne Falls. I also came across a small covered bridge right after the store. Conway remains a favorite town to pass through.
+
+![Conway General Store, and a Covered Bridge](conway.jpg)
+*Conway General Store, and a Covered Bridge*
+
 
 ![Strava Route Day 1 - Greenfield to Worthington](strava_day1.jpg) 
 *Strava Route Day 1 - Greenfield to Worthington*
