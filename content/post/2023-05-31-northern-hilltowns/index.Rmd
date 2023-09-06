@@ -30,8 +30,7 @@ The Vermonter train goes along the Connecticut River, and has some incredible vi
 ![The Cornish-Windsor Covered Bridge](covered_bridge.jpg) 
 *The Cornish-Windsor Covered Bridge*
 
-![Wildlife in the Crane Pond Wildlife Management Area. Turtles and (not pictured, but 100% DEFINITELY there) snakes!](animals.jpg) 
-*Wildlife in the Crane Pond Wildlife Management Area. Turtles and (not pictured, but 100% DEFINITELY there) snakes!*
+The ride today consisted of a nearly 1,500 foot climb, nearly consistently uphill for 15 miles, after an initial 5 miles in the flat northern Pioneer Valley through Deerfield. I had previously only skirted the southern portion of Deerfield on the [Mohawk Trail](https://ride351ma.bike/post/2022-04-23-the-mohawk-trail/) ride, and twice along the northern edge after crossing over from Montague on the Canalside Rail Trail Bridge (See [Connecticut River Connect](https://ride351ma.bike/post/2022-10-15-connecticut-river-connect/) and [A Wedding with a side of Covid](https://ride351ma.bike/post/2022-05-29-a-wedding/)).
 
 ![Strava Route Day 1 - Greenfield to Worthington](strava_day1.jpg) 
 *Strava Route Day 1 - Greenfield to Worthington*
