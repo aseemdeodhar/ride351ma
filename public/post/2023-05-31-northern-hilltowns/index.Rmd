@@ -34,12 +34,23 @@ The ride today consisted of a nearly 1,500 foot climb, nearly consistently uphil
 
 ##### Conway
 
-I have passed through the town of Conway, and had a snack/water break at the Conway General Store three times so far. It has become my favorite place to stop. It is a very basic, simple general store with the basics, but they have a small bike rack with some space to sit and eat. This time, however, was the first time I was going beyond Conway along Route 116W, and not to or from Shelburne Falls. I also came across a small covered bridge right after the store. Conway remains a favorite town to pass through.
+I have passed through the town of Conway, and had a snack/water break at the Conway General Store three times so far. It has become my favorite place to stop. It is a very basic, simple general store with the basics, but they have a small bike rack with some space to sit and eat. This time, however, was the first time I was going beyond Conway along Route 116N, and not to or from Shelburne Falls. I also came across a small covered bridge right after the store. Conway remains a favorite town to pass through.
 
 ![Conway General Store, and a Covered Bridge](conway.jpg)
 *Conway General Store, and a Covered Bridge*
 
+##### Routes 116 and 112
 
+Massachusetts State routes 116 and 112 are two very beautiful bike routes - and also drives for persons of the automobile persuasion. They go through unmatched scenery with forests, hills, and fields - winding their way through small towns such as Conway, Ashfield, Plainfield. Coupled with the early summer sun, it was a sight to behold.
+
+![Route 112 in Cummington, MA](cummington.jpg)
+*Route 112 in Cummington, MA*
+
+I spent the night at the [Goldenrod Country Inn](https://www.goldenrodcountryinn.com/), in Worthington, and had dinner at [Liston's Restaurant and Bar](https://listonsbar.com/). Because of the almost constant climb, it was a very exhausting day, however, as it is with the Berkshire hills, it was worth every drop of sweat!
+
+### Day 2 - Worthington to North Adams
+
+While yesterday was mostly uphill, today was going to have a nice long downhill portion descending into the Berkshire Valley. The first time I rode to the Berkshire Valley, I rode down Route 2 from Florida into North Adams. That super steep descent was after a super steep ascent, and my legs, and parched body was in shambles. This time, thankfully, I had plenty of spots to get refreshments, and even though it was an awfully hot day (the recent tarring of Route 8A did not help with the heat), the samosas at Sangar General Store in Windsor were a wonderful respite.
 
 ![Strava Route Day 1 - Greenfield to Worthington](strava_day1.jpg) 
 *Strava Route Day 1 - Greenfield to Worthington*
