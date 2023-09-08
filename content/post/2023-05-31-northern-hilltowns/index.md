@@ -41,16 +41,74 @@ I have passed through the town of Conway, and had a snack/water break at the Con
 
 ##### Routes 116 and 112
 
-Massachusetts State routes 116 and 112 are two very beautiful bike routes - and also drives for persons of the automobile persuasion. They go through unmatched scenery with forests, hills, and fields - winding their way through small towns such as Conway, Ashfield, Plainfield. Coupled with the early summer sun, it was a sight to behold.
+Massachusetts State routes 116 and 112 are two very beautiful bike routes - and also drives for persons of the automobile persuasion. They go through unmatched scenery with forests, hills, valleys, and fields - winding their way through small towns such as Conway, Ashfield, Plainfield. Coupled with the early summer sun, it was a sight to behold.
 
 ![Route 112 in Cummington, MA](cummington.jpg)
 *Route 112 in Cummington, MA*
 
-I spent the night at the [Goldenrod Country Inn](https://www.goldenrodcountryinn.com/), in Worthington, and had dinner at [Liston's Restaurant and Bar](https://listonsbar.com/). Because of the almost constant climb, it was a very exhausting day, however, as it is with the Berkshire hills, it was worth every drop of sweat!
+I spent the night at the [Goldenrod Country Inn](https://www.goldenrodcountryinn.com/), in Worthington, and had dinner at [Liston's Restaurant and Bar](https://listonsbar.com/). I highly recommend staying at the Goldenrod Inn. The room was moderately priced, and was impeccably attended to. Because of the almost constant climb, it was a very exhausting day, however, as it is with the Berkshire hills, it was worth every drop of sweat!
+
+![Goldenrod Country Inn, Worthington MA](inn.jpg)
+*Goldenrod Country Inn, Worthington MA*
 
 ### Day 2 - Worthington to North Adams
 
-While yesterday was mostly uphill, today was going to have a nice long downhill portion descending into the Berkshire Valley. The first time I rode to the Berkshire Valley, I rode down Route 2 from Florida into North Adams. That super steep descent was after a super steep ascent, and my legs, and parched body was in shambles. This time, thankfully, I had plenty of spots to get refreshments, and even though it was an awfully hot day (the recent tarring of Route 8A did not help with the heat), the samosas at Sangar General Store in Windsor were a wonderful respite.
+While yesterday was mostly uphill, today was going to have a nice long downhill portion descending into the Berkshire Valley. Today was a day of surprises - all nice!
+
+The first time I rode to the Berkshire Valley, I rode down Route 2 from Florida into North Adams. That super steep descent was after a super steep ascent, and my legs, and parched body was in shambles. This time, thankfully, I had plenty of spots to get refreshments, with one surprising stop in Windsor MA!
+
+Today was a hot day, and compared to yesterday, a larger portion of my route went through unshaded portions. So hydration was key. While there was more downhill and flat portions, the heat made things much more difficult. The recent black-topping of Route 8A did not help with the heat either!
+
+My first town after leaving Worthington was the aptly named Peru! Peru is high up in the Berkshire hills, and is thickly forested. I even saw a bear cub on the road leading into town! It has a small library with peeling paint, and no commercial establishments.
+
+![Peru town sign on Rt 143. I saw a bear cub right after this sign in the distance!](peru_sign.jpg)
+*Peru town sign on Rt 143. I saw a bear cub right after this sign in the distance!*
+
+![Two important buildings in the town of Peru - the town offices, and library](peru_town.jpg)
+*Two important buildings in the town of Peru - the town offices, and library*
+
+The next 14 miles were mostly uneventful and relatively flat (after a short descent). I think it would have been more enjoyable if the weather had been good. After a brutal, hot climb along the freshly tarred (and insanely hot) Route 8A, I made my way to my final refreshment stop of the ride - the Sangar General Store, in Windsor MA.
+
+It was a surprise to find samosas in the middle of a tiny hilltown in the Berkshires. Turns out, its kind of well-known-(ish), and there's even a small [radio interview](https://beta.prx.org/stories/260926) of the owner - Prem Sangar. Windsor was at the high-point before my final descent into the Berkshire Valley, so I spent a little while recharging.
+
+![Samosas, Gatorade, and Coconut water at the Sangar General Store](sangar.jpg)
+*Samosas, Gatorade, and Coconut water at the Sangar General Store*
+
+![Windsor Congregation Hall, and the Sangar General Store](windsor.jpg)
+*Windsor Congregation Hall, and the Sangar General Store*
+
+##### Berkshire Valley
+
+After descending down from Windsor, I had a small uphill portion through some farmland. It was a very stunning view, with large fields, barns, grain silos, and Mt Greylock in the background. It was also a relatively less trafficked road, so I could enjoy the views safely.
+
+![Fields and the background hills along Bucklin Road](farm.jpg)
+*Fields and the background hills along Bucklin Road*
+
+![Farm buildings and Mt Greylock in the background](greylock_view.jpg)
+*Farm buildings and Mt Greylock in the background*
+
+##### North Adams
+
+Thoroughly exhausted from my ride, I finally made it to my Airbnb in North Adams. I had a cold water shower before heading out for dinner at the MassMOCA campus. There was a small brewery with a brisket place. MassMOCA is located in an old mill building, and in the evening light, it looked beautiful.
+
+![The MassMOCA building](moca.jpg)
+*The MassMOCA building*
+
+### Day 3 - North Adams to Williamstown
+
+I had a bus to catch back to Boston on my third day. Also, I had already ridden through Williamstown, and it being a relativly small ride, I did not really do much planning. I had some hours before my bus, so I decided to spend a day at the Clark Art Institute. While the Clark Art Institute is quite old, their new building and newer structures on campus are designed by the reknowned architect from Japan - Tadao Ando, and thus I had to check out not just the art on display, but also the building.
+
+Tadao Ando is a master of concrete, and his skills are on full display at the Clark. It is also home to some great pieces of art.
+
+![Exterior of the main pool area of the Clark Institute, by Tadao Ando](clark_institute.jpg)
+*Exterior of the main pool area of the Clark Institute, by Tadao Ando*
+![Benches by the pool, and an exterior stairway in a courtyard, by Tadao Ando](clark_archi.jpg)
+*Benches by the pool, and an exterior stairway in a courtyard, by Tadao Ando*
+
+!['Little Dancer' - sculpture by Degas (left), and 'Woman with a Fan' - painting by Renoir (right), at the Clark Institute](clark_art.jpg)
+*'Little Dancer' - sculpture by Degas (left), and 'Woman with a Fan' - painting by Renoir (right), at the Clark Institute*
+
+Dark grey clouds had started to gather, as I waited for the bus back to Boston, and I was worried about the shelter-less bus stop. Thankfully, the bus just showed up as the first drops started falling, and before it got too bad, I was safely inside, on my way home after an epic Berkshire adventure.
 
 ![Strava Route Day 1 - Greenfield to Worthington](strava_day1.jpg) 
 *Strava Route Day 1 - Greenfield to Worthington*
@@ -60,4 +118,4 @@ While yesterday was mostly uphill, today was going to have a nice long downhill 
 
 Overall, I covered 11 new towns - Cheshire, Worthington, Cummington, Peru, Plainfield, Dalton, Windsor, Hinsdale, Savoy, Adams, and Washington - bringing the total to 296/351 - 84.3%!
 
-![Mad Merrimac Meander](bike_routes_muni_2023-05-31.jpeg)
+![Northern Hilltowns](bike_routes_muni_2023-05-31.jpeg)
