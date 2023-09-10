@@ -12,13 +12,10 @@ tags: []
 
 **Ride With GPS Link**
 
-[Bourne to Woods Hole](https://ridewithgps.com/routes/43389712)
-
-[Martha's Vineyard: Vineyard Haven to HI Hostel](https://ridewithgps.com/routes/43390920)
-
-[Martha's Vineyard: HI Hostel to Oak Bluffs](https://ridewithgps.com/routes/43392473)
-
-[Nantucket Loop](https://ridewithgps.com/routes/43392840)
+* [Bourne to Woods Hole](https://ridewithgps.com/routes/43389712)
+* [Martha's Vineyard: Vineyard Haven to HI Hostel](https://ridewithgps.com/routes/43390920)
+* [Martha's Vineyard: HI Hostel to Oak Bluffs](https://ridewithgps.com/routes/43392473)
+* [Nantucket Loop](https://ridewithgps.com/routes/43392840)
 
 This was a long awaited trip - in the nearly five years of living in Boston, I had never been to the islands. The first island I went to was [Cuttyhunk](https://ride351ma.bike/post/2022-05-23-south-coast-ing/) in May 2022! Even though I've ridden my bike on the Cape multiple times, I have always had a very bad experience riding in the Upper and Mid Cape. This is definitely anecdotal, but the most hostility I've faced in Massachusetts (and the only hostility that really affected me) was on the Cape. The Outer Cape is fine though, and I've only had friendly experiences.
 
