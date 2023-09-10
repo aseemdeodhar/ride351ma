@@ -49,9 +49,27 @@ After crossing over from Meneshma, the route was much nicer. Actually, it had al
 ![Aquinnah Cliffs](aquinnah.jpg)
 *Aquinnah Cliffs*
 
-After the Aquinnah Cliffs overlook, we were very tired. That night, we were staying at the [Hostelling International Hostel](https://www.hiusa.org/find-hostels/massachusetts/west-tisbury-525-edgartown-w-tisbury-road) in West Tisbury. It is the ~~only affordable accommodation~~ least expensive accommodation on the island. Yes. Martha's Vineyard is expensive to stay - even at a hostel. Nantucket you ask? Forget about it.
+After the Aquinnah Cliffs overlook, we were very tired. That night, we were staying at the [Hostelling International Hostel](https://www.hiusa.org/find-hostels/massachusetts/west-tisbury-525-edgartown-w-tisbury-road) in West Tisbury. It is the ~~only affordable accommodation~~ least expensive accommodation on the island. Yes. Martha's Vineyard is expensive to stay - even at a hostel. We found a grocery store near the hostel, and got a few ingredients to make dinner in the hostel's communal kitchen. It had been a hot, humid, and tiring day, and we were ready to sleep.
 
+The next day, we had a somewhat leisurely start to a relatively busy and long day. We were taking the noon ferry from Oak Bluffs to Nantucket, spending a few hours on Nantucket, and then take the Nantucket-Hyannis ferry in time to catch the CapeFlyer train back to Boston. After a hostel-provided breakfast of blueberry pancakes and coffee, we set off, along the bike path to Oak Bluffs, via a short detour in Edgartown. We also went via the location where the movie 'Jaws' was shot.
 
+Oak Bluffs was a nice town, and had a nice vibe to it. Definitely very tourism focused economy, it was also one of the only places where Black Americans were welcomed and not face apartheid and exclusion on Martha's Vineyard. As a result, it has a thriving Black community. Trinity Park in Oak Bluffs has a large collection of 'gingerbread' houses. These houses developed over time, starting from simple camp structures to these elaborate houses. We spent 15-20 minutes walking around, before heading to the ferry for Nantucket.
+
+![Oak Bluffs 'Campground' Gingerbread houses](oak_bluffs.jpg)
+*Oak Bluffs 'Campground' Gingerbread houses*
+
+We took an inter-island ferry from Oak Bluffs to Nantucket. While it was expensive, it would have been more expensive to make another trip to Nantucket. This ferry runs only in the peak summer months, thrice a day, so it might not be a feasible option for everyone.
+
+![Inter-island ferry between Oak Bluffs and Nantucket](ferry_mvnk.jpg)
+*Inter-island ferry between Oak Bluffs and Nantucket*
+
+##### Nantucket
+
+Nantucket. Sigh. Is it a cute town? Yes. Are the vibes off? Also yes. I won't go into a lot of detail, but if you combine the Seaport and South Boston, and plonk it on an island, yeah? That's the vibe. It was not great. That's all I'm going to say.
+
+We decided to treat ourselves to a beer at Cisco - again, we really wanted to get out after a beer and a scallop role. I didn't even see a single picture in my camera roll, so unfortunately (or fortunately?) no pictures to share here. We couldn't wait to get back to Hyannis.
+
+After a long slow ferry ride (the fast ferry was sold out) we made it to Hyannis, had a nice walk along the main street and harbor, and had another beer at an arcade! We took the CapeFlyer back to Boston, and finally got home after nine o'clock.
 
 ![Entire Strava Route - also includes ferry rides](strava_day1.jpg) 
 *Entire Strava Route - also includes ferry rides*
