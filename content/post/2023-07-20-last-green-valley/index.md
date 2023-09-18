@@ -61,7 +61,7 @@ The funniest example of municipal indifference and borders was visible at the Mo
 ![Border between Wales and Monson](wales_monson_border.jpg)
 *Border between Wales and Monson*
 
-While I did not take pictures, the portion of the ride through Forest Park in Springfield was really nice. Designed by Olmsted's firm (although not himself) it is a very famous green space in Springfield. I have ridden down Main Street in downtown Springfield countless times now, heading towards Union Station, so the portion of the route after Forest Park was very familiar to me. I ended the ride with a beer, wurst, and giant pretzels at the German restaurant [Student Prince Cafe and The Fort](https://www.studentprince.com/)
+While I did not take pictures, the portion of the ride through Forest Park in Springfield was really nice. Designed by Olmsted's firm (although not himself) it is a very famous green space in Springfield. I have ridden down Main Street in downtown Springfield countless times now, heading towards Union Station, so the portion of the route after Forest Park was very familiar to me. I ended the ride with a beer, wurst, and giant pretzels at the German restaurant [Student Prince Cafe and The Fort](https://www.studentprince.com/).
 
 ![Strava Route Day 1 - Franklin to Sturbridge](strava_day1.jpg) 
 *Strava Route Day 1 - Franklin to Sturbridge*
