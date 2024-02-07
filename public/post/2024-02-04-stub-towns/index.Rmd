@@ -1,25 +1,28 @@
 ---
 title: "Stub Towns"
 author: "Aseem Deodhar"
-date: "2023-10-27T00:00:00"
+date: "2023-11-27T00:00:00"
 description: Towns where I biked less than 2 miles
 slug: []
 categories: []
 tags: []
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
 [**Ride With GPS Link**](https://ridewithgps.com/routes/38842095)
 
 After completing the 351 challenge in August, I decided to rest on my laurels, because I needed to. A win after a long time, this was something I wanted to celebrate. A small caveat, however, was that I had 'finished' some towns in a somewhat incomplete way. I call these 'stub' towns. These were towns where, because of the various combination of routes I chose, they weren't really on the way. I would have had to take a very long detour to include them. Or, because of the nature of availability of public transport (or rather, lack thereof), including these towns in reasonable lengthed bike rides was difficult.
 
-So how did I incorporate them in a ride? I would take a slight detour and just cross the border enough to 'ride through' that town. As such, as of August, there were 663 towns where I rode less than 2 miles, and 24 towns where I rode less than 1 mile. My goal for the 2024 riding season is to cover as many of these as I can. *For these rides, I am going to consider renting a car*.
+So how did I incorporate them in a ride? I would take a slight detour and just cross the border enough to 'ride through' that town. As such, as of August, there were 663 towns where I rode less than 2 miles, and 24 towns where I rode less than 1 mile. My goal for the 2024 riding season is to cover as many of these as I can. **For these rides, I am going to consider renting a car**.
 
-![Updated Interactive Map]
-```{r, echo=FALSE, eval=TRUE, message=FALSE}
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
 library(sf)
 library(leaflet)
-library(mapview)
 
 asdf <- read_sf("final_date_town_dist_matrix_sf.gpkg") %>% 
   st_transform(crs = 4326) %>% 
@@ -29,7 +32,10 @@ asdf <- read_sf("final_date_town_dist_matrix_sf.gpkg") %>%
 stubs_2mi <- asdf %>% filter(miles < 2.0)
 stubs_1mi <- asdf %>% filter(miles < 1.0)
 
-a <- leaflet() %>% 
+```
+
+```{r, echo=FALSE}
+leaflet() %>% 
   addTiles() %>% 
   addPolygons(data = stubs_2mi, 
               popup = ~paste(stubs_2mi$muni_name, stubs_2mi$miles, " miles"),
@@ -39,15 +45,6 @@ a <- leaflet() %>%
               popup = ~paste(stubs_1mi$muni_name, stubs_1mi$miles, " miles"),
               fillColor = "red",
               color = "red")
-
-# ggplot()+
-#   geom_sf(data = asdf)+
-#   theme_void()
-
-```
-
-```{r}
-a
 ```
 
 
