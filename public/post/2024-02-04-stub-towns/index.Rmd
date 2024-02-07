@@ -15,7 +15,7 @@ After completing the 351 challenge in August, I decided to rest on my laurels, b
 So how did I incorporate them in a ride? I would take a slight detour and just cross the border enough to 'ride through' that town. As such, as of August, there were 663 towns where I rode less than 2 miles, and 24 towns where I rode less than 1 mile. My goal for the 2024 riding season is to cover as many of these as I can. *For these rides, I am going to consider renting a car*.
 
 ![Updated Interactive Map]
-```{r, echo=FALSE}
+```{r, echo=FALSE, eval=TRUE, message=FALSE}
 library(tidyverse)
 library(sf)
 library(leaflet)
