@@ -19,11 +19,15 @@ So how did I incorporate them in a ride? I would take a slight detour and just c
 
 <img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
 ![Stub Towns Map](stub_town_map.jpeg)
+#### Leyden & Bernardston on October 27th 2023
+
 I made this a while after I did my first purposeful stub-towns ride through Leyden & Bernardston on October 27th 2023.
 
 [**Leyden & Bernardston Strava Link**](https://www.strava.com/activities/10114491130)
 
 [**Leyden & Bernardston Ride with GPS Link**](https://ridewithgps.com/routes/44843656)
+
+#### List of municipalities by distance biked
 
 This table contains a running list of all towns where I have biked less than 1 and 2 miles. As and when I complete a ride, the list will grow smaller.
 
