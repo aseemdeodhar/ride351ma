@@ -33,8 +33,7 @@ asdf_db <- asdf %>% st_drop_geometry()
 stubs_2mi <- asdf_db %>% filter(miles < 2.0) %>% select(muni_name) %>% as_vector()
 stubs_1mi <- asdf_db %>% filter(miles < 1.0) %>% select(muni_name) %>% as_vector()
 
-asdf_db %>% select(muni_name, latest_ride) %>% arrange(desc(latest_ride))
-
+knitr::kable(asdf_db %>% arrange(miles) %>% filter(miles < 2))
 ```
 
 ```{r echo=FALSE, results='hide',message=FALSE}
