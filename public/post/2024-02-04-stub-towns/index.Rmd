@@ -12,8 +12,6 @@ tags: []
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-[**Ride With GPS Link**](https://ridewithgps.com/routes/38842095)
-
 After completing the 351 challenge in August, I decided to rest on my laurels, because I needed to. A win after a long time, this was something I wanted to celebrate. A small caveat, however, was that I had 'finished' some towns in a somewhat incomplete way. I call these 'stub' towns. These were towns where, because of the various combination of routes I chose, they weren't really on the way. I would have had to take a very long detour to include them. Or, because of the nature of availability of public transport (or rather, lack thereof), including these towns in reasonable lengthed bike rides was difficult.
 
 So how did I incorporate them in a ride? I would take a slight detour and just cross the border enough to 'ride through' that town. As such, as of August, there were 663 towns where I rode less than 2 miles, and 24 towns where I rode less than 1 mile. My goal for the 2024 riding season is to cover as many of these as I can. **For these rides, I am going to consider renting a car**.
@@ -26,25 +24,57 @@ library(leaflet)
 
 asdf <- read_sf("final_date_town_dist_matrix_sf.gpkg") %>% 
   st_transform(crs = 4326) %>% 
-  select(muni_id, muni_name, miles) %>% 
-  mutate(miles = round(miles, 2))
+  select(muni_id, muni_name, miles, latest_ride) %>% 
+  mutate(miles = round(miles, 2)) %>% 
+            mutate(status = case_when(miles >= 1.0 & miles < 2.0 ~ "Between 1 to 2 miles",
+                                      miles < 1.0 ~ "Less than 1 mile",
+                                      miles > 2.0 ~ "More than 2 miles"))
+asdf_db <- asdf %>% st_drop_geometry()
+stubs_2mi <- asdf_db %>% filter(miles < 2.0) %>% select(muni_name) %>% as_vector()
+stubs_1mi <- asdf_db %>% filter(miles < 1.0) %>% select(muni_name) %>% as_vector()
 
-stubs_2mi <- asdf %>% filter(miles < 2.0)
-stubs_1mi <- asdf %>% filter(miles < 1.0)
+asdf_db %>% select(muni_name, latest_ride) %>% arrange(desc(latest_ride))
 
 ```
 
-```{r, echo=FALSE}
-leaflet() %>% 
-  addTiles() %>% 
-  addPolygons(data = stubs_2mi, 
-              popup = ~paste(stubs_2mi$muni_name, stubs_2mi$miles, " miles"),
-              fillColor = "blue",
-              color = "blue") %>% 
-  addPolygons(data = stubs_1mi, 
-              popup = ~paste(stubs_1mi$muni_name, stubs_1mi$miles, " miles"),
-              fillColor = "red",
-              color = "red")
-```
+```{r echo=FALSE, results='hide',message=FALSE}
+ggplot()+
+  geom_sf(data = asdf ,
+          aes(fill = status),
+          size = 0.10)+
+  scale_fill_manual(name = "",
+                    values = c("Less than 1 mile" = "#E5E5E5",
+                               "Between 1 to 2 miles" = "#78DA55",
+                               "More than 2 miles" = "#828e9a"))+
+  labs(title = paste0("Stub Towns: Total towns & cities below 2 miles remaining ", 
+                      length(stubs_2mi), " of 351. ", 
+                      round((sum(length(stubs_2mi),length(stubs_1mi))/351)*100, digits = 1), "%"),
+       subtitle = paste0("Stub Towns: Total towns & cities below 1 miles remaining ", 
+                      length(stubs_1mi), " of 351. ", 
+                      round((length(stubs_1mi)/351)*100, digits = 1), "%"))+
+  
+  theme_void()+
+  
+  theme(panel.background = element_rect(color = "white", fill = "white"),
+        plot.background =  element_rect(color = "white", fill = "white"),
+        strip.background =  element_rect(color = "white", fill = "white"),
+        plot.title = element_text(size = 30),
+        plot.subtitle = element_text(size = 24),
+        plot.caption = element_text(size = 18),
+        legend.position = c(0.2,0.2),
+        legend.text = element_text(size = 18),
+        legend.key.size = unit(0.5, "in"))
 
+ggsave(paste0("stub_town_map.jpeg"),
+       dpi = 300,
+       height = 12,
+       width = 20,
+       units = 'in')
+```
+![Stub Towns Map](stub_town_map.jpeg)
+I made this a while after I did my first purposeful stub-towns ride through Leyden & Bernardston on October 27th 2023.
+
+[**Leyden & Bernardston Strava Link**](https://www.strava.com/activities/10114491130)
+
+[**Leyden & Bernardston Ride with GPS Link**](https://ridewithgps.com/routes/44843656)
 
