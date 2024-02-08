@@ -79,7 +79,7 @@ I made this a while after I did my first purposeful stub-towns ride through Leyd
 
 [**Leyden & Bernardston Ride with GPS Link**](https://ridewithgps.com/routes/44843656)
 
-#### List of municipalities by distance biked
+## List of municipalities by distance biked
 
 This table contains a running list of all towns where I have biked less than 1 and 2 miles. As and when I complete a ride, the list will grow smaller.
 ```{r, echo=FALSE}
