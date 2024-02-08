@@ -78,7 +78,7 @@ I made this a while after I did my first purposeful stub-towns ride through Leyd
 [**Leyden & Bernardston Ride with GPS Link**](https://ridewithgps.com/routes/44843656)
 
 This table contains a running list of all towns where I have biked less than 1 and 2 miles. As and when I complete a ride, the list will grow smaller.
-```{r}
+```{r, echo=FALSE}
 knitr::kable(asdf_db %>% arrange(miles) %>% filter(miles < 2))
 ```
 
