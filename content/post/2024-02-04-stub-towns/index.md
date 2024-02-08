@@ -27,12 +27,6 @@ I made this a while after I did my first purposeful stub-towns ride through Leyd
 
 This table contains a running list of all towns where I have biked less than 1 and 2 miles. As and when I complete a ride, the list will grow smaller.
 
-```r
-knitr::kable(asdf_db %>% arrange(miles) %>% filter(miles < 2))
-```
-
-
-
 | muni_id|muni_name          | miles|latest_ride |status               |
 |-------:|:------------------|-----:|:-----------|:--------------------|
 |     194|Montgomery         |  0.15|2022-06-20  |Less than 1 mile     |
