@@ -27,6 +27,14 @@ I made this a while after I did my first purposeful stub-towns ride through Leyd
 
 [**Leyden & Bernardston Ride with GPS Link**](https://ridewithgps.com/routes/44843656)
 
+#### Shelburne on April 28th 2024
+
+I had initially planned on riding through Shelburne on a different ride, but this loop was too good, and we were able to incorporate it.
+
+[**Shelburne Strava Link**](https://www.strava.com/activities/11286216863)
+
+[**Shelburne Ride with GPS Link**](https://ridewithgps.com/routes/46389385)
+
 ## List of municipalities by distance biked
 
 This table contains a running list of all towns where I have biked less than 1 and 2 miles. As and when I complete a ride, the list will grow smaller.
@@ -68,7 +76,6 @@ This table contains a running list of all towns where I have biked less than 1 a
 |      82|Duxbury            |  1.19|2023-02-06  |Between 1 to 2 miles |
 |     121|Hancock            |  1.24|2022-09-11  |Between 1 to 2 miles |
 |     238|Plainville         |  1.26|2023-07-15  |Between 1 to 2 miles |
-|     268|Shelburne          |  1.26|2022-08-21  |Between 1 to 2 miles |
 |     290|Sutton             |  1.26|2023-04-22  |Between 1 to 2 miles |
 |     159|Longmeadow         |  1.35|2023-07-20  |Between 1 to 2 miles |
 |     328|Westborough        |  1.37|2023-03-26  |Between 1 to 2 miles |
